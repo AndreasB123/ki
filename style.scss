@@ -18,6 +18,16 @@ html {
 
 body {
   background: $white;
+ 
+	background: url(https://blog.spoongraphics.co.uk/wp-content/uploads/2010/camo-patterns/Woodland-Camo.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  font: 18px/1.4 $courier;
+  background-color: #ffffff;
+  
+  
+}
   font: 18px/1.7 $helvetica;
   color: $gray;
 }
